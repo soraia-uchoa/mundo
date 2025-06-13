@@ -1,0 +1,43 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.titulo {
+    background-color: rgb(255, 254, 254);
+    padding: 20px;
+    display: flex;
+    align-items: center;
+}
+
+.terra {
+    border-radius: 50%;
+    width: 70px;
+}
+
+.texto1 {
+    background-color: rgb(157, 231, 235);
+    padding: 20px;
+}
+
+.texto2 {
+    background-color: rgb(128, 238, 187);
+    padding: 20px;
+}
+
+.titulo3 {
+    text-align: center;
+    background-color:  rgb(157, 231, 235);
+    padding: 20px;
+}
+
+.texto4 {
+    background-color: rgb(255, 255, 255);
+}
+
+.img1 {
+    width: 200px;
+}
+
+
+
